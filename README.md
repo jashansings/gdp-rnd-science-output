@@ -52,18 +52,19 @@ Through data cleaning, exploratory data analysis (EDA), and correlation mapping,
 - 🔥 Heatmaps showing correlation between R&D intensity and GDP per capita
 - 🌍 Scatter plots comparing R&D spending vs GDP growth
 
----
+👨‍💻 Author
+Jashanpreet Singh
+B.Tech, Computer Science and Engineering
+Indian Institute of Technology, Bombay
 
+---
 ## 📦 requirements.txt (Install Dependencies)
 
 ```txt
 pandas
 numpy
 matplotlib
-seaborn
+seaborn 
 
-👨‍💻 Author
 
-Jashanpreet Singh
-B.Tech, Computer Science and Engineering
-Indian Institute of Technology, Bombay
+
